@@ -1,5 +1,4 @@
 ## [1.0.0] - 2021-1-31
-### Added
 - first verson
  
 ## [1.0.1] - 2021-1-31
@@ -10,6 +9,7 @@
 
 ## [1.0.2] - 2021-1-31
 ### Added
+#### Plugin
 - MobTransporter-2.2
 - KeepChunks-1.6.7
 - HyperSleep-1.0.1
@@ -18,6 +18,7 @@
 
 ## [1.0.3] - 2021-2-1
 ### Removed
+#### Plugin
 - AutoReplant-1.0
 
 ## [1.0.4] - 2021-2-5
@@ -30,12 +31,14 @@
 ### Changed
 -**changed server's core from "Paper" to "Fabric"** 
 ### Removed
+#### Plugin
 - MobTransporter-2.2
 - KeepChunks-1.6.7
 - HyperSleep-1.0.1
 - ImageOnMap-4.0
 ### Added
-- **"Carpte" mod**
+#### Mod
+- **Carpte**
 
 ## [2.1.0] - 2021-2-14
 ### Added
@@ -46,6 +49,7 @@
 
 ## [2.1.1] - 2021-2-17
 ### Added
+#### Plugin
 - AIchat
 - Deep
 - Daycount
