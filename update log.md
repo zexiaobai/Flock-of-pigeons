@@ -60,3 +60,11 @@
 - Timed QBM
 ### Changed
 - accident setback
+
+## [2.1.1] - 2021.2.18
+### Added
+#### Plugin
+- diepos
+- gamemode
+- MinecraftDataAPI
+- SimpleOP
