@@ -65,6 +65,6 @@
 ### Added
 #### Plugin
 - diepos
-- gamemode
+- gamemode > need to debug
 - MinecraftDataAPI
 - SimpleOP
