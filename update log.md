@@ -56,7 +56,7 @@
 - JsonDataAPI
 - Seen and Liver
 - Permantent Backip
-- Quick Backup Multi
+- Quick Backup Multi > need debug
 - Timed QBM
 ### Changed
 - accident setback
