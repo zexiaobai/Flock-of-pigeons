@@ -61,10 +61,16 @@
 ### Changed
 - accident setback
 
-## [2.1.1] - 2021.2.18
+## [2.1.2] - 2021.2.18
 ### Added
 #### Plugin
 - diepos
 - gamemode > need to debug
 - MinecraftDataAPI
 - SimpleOP
+
+## [2.1.3] - 2021.2.18
+### Added
+#### Plugin
+- Hat
+- PlayerDropS Kill
