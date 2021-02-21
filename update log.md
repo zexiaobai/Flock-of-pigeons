@@ -72,5 +72,5 @@
 ## [2.1.3] - 2021.2.18
 ### Added
 #### Plugin
-- Hat
-- PlayerDropS Kill
+- Hat > need debug
+- PlayerDropS Kill > need debug
