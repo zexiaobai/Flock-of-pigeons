@@ -74,3 +74,18 @@
 #### Plugin
 - Hat > need debug
 - PlayerDropS Kill > need debug
+
+### bug report
+- [MCDR] [07:15:40] [TaskExecutor/ERROR]: Error invoking listener EventListener[plugin=gamemode@0.0.0,priority=1000,callback=<function on_info at 0x039676E8>]
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\mcdreforged\plugin\plugin_manager.py", line 447, in trigger_listener
+    listener.execute(self.mcdr_server.server_interface, *args)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\mcdreforged\plugin\plugin_event.py", line 79, in execute
+    return self.callback(*args, **kwargs)
+  File "plugins\gamemode.py", line 20, in on_info
+    per = server.get_permission_level(info)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\mcdreforged\plugin\server_interface.py", line 38, in wrap
+    return func(self, *args, **kwargs)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\mcdreforged\plugin\server_interface.py", line 448, in get_permission_level
+    raise TypeError('The Info instance is not from a user')
+TypeError: The Info instance is not from a user
