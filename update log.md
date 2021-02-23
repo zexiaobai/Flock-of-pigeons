@@ -89,3 +89,8 @@ Traceback (most recent call last):
   File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38-32\lib\site-packages\mcdreforged\plugin\server_interface.py", line 448, in get_permission_level
     raise TypeError('The Info instance is not from a user')
 TypeError: The Info instance is not from a user
+
+## [2.1.3] - 2021.2.23
+### Unload
+- Hat
+- PlayerDropS kill
